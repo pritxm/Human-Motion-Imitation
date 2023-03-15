@@ -5,8 +5,7 @@ Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance T
 
 **Please clone the newest codes.**
 
-[[paper]]([https://arxiv.org/pdf/1909.12224.pdf](https://www.ijraset.com/research-paper/human-motion-imitation-using-generative-adversarial-networks)) [[Supplemental Material]](https://svip-lab.github.io/project_img/impersonator/4701-supp.pdf) [[Dataset]](https://svip-lab.github.io/dataset/iPER_dataset.html)
-
+[[paper]]([https://www.ijraset.com/research-paper/human-motion-imitation-using-generative-adversarial-networks]) 
 <p float="center">
 	<img src='assets/visuals/motion/Sweaters-id_0000088807_4_full.jpg' width="135"/>
   	<img src='assets/visuals/motion/mixamo_0007_Sweaters-id_0000088807_4_full.gif' width="135"/>

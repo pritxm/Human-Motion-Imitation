@@ -1,11 +1,10 @@
 # Impersonator
 PyTorch implementation of our ICCV 2019 paper:
 
-Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis
+Human Motion Imitation using Generative Adversarial Networks
 
-**Please clone the newest codes.**
 
-[[paper]]([https://www.ijraset.com/research-paper/human-motion-imitation-using-generative-adversarial-networks]) 
+Paper: https://www.ijraset.com/best-journal/human-motion-imitation-using-generative-adverserial-networks
 <p float="center">
 	<img src='assets/visuals/motion/Sweaters-id_0000088807_4_full.jpg' width="135"/>
   	<img src='assets/visuals/motion/mixamo_0007_Sweaters-id_0000088807_4_full.gif' width="135"/>
